@@ -1,0 +1,6 @@
+{
+  "name": "OmniOrder Hub & Inventory Logistics",
+  "description": "Comprehensive customer order management, dynamic inventory tracking, real-time GPS delivery tracking, automated notifications, sales reporting, multi-currency international shipping, and 2FA security.",
+  "requestFramePermissions": ["geolocation", "notifications"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
